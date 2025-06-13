@@ -63,5 +63,11 @@ Automatically clean up old files from an S3 bucket to:
 
 ### 4 Screenshots
 
-
-![Screenshot 2025-06-13 222455](https://github.com/user-attachments/assets/65fa33ef-5057-4833-9cee-c79c7c4c7348)
+![Uploading Screenshot 2025-06-13 215655.png…]()
+![Screenshot 2025-06-13 220521](https://github.com/user-attachments/assets/e7ef3a7a-54d4-483d-98e1-59bc367a2699)
+![Uploading Screenshot 2025-06-13 220656.png…]()
+![Uploading Screenshot 2025-06-13 221526.png…]()
+![Uploading Screenshot 2025-06-13 221611.png…]()
+![Uploading Screenshot 2025-06-13 221853.png…]()
+![Uploading Screenshot 2025-06-13 221903.png…]()
+![Uploading Screenshot 2025-06-13 222455.png…]()
