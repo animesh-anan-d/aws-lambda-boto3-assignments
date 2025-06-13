@@ -49,8 +49,19 @@ You are required to write a Lambda function that:
 
 
 
+![Screenshot 2025-06-13 204459](https://github.com/user-attachments/assets/6f0a6bec-438d-4e9e-aeaf-5068e87ad49d)
 
 ### 4. Output
 
 Stopped Instances: ['i-0123456789abcdef0']
 Started Instances: ['i-0abcdef0123456789']
+
+
+
+### 5. Screenshots
+![Screenshot 2025-06-13 205118](https://github.com/user-attachments/assets/3d47861f-16f7-4fb0-8b6d-a0df27ae43b7)
+
+![Screenshot 2025-06-13 211805](https://github.com/user-attachments/assets/41fe0728-e16b-4199-b2d8-8a3cf424e0eb)
+![Screenshot 2025-06-13 204904](https![Uploading Screenshot 2025-06-13 211805.png…]()
+://github.com/user-attachments/assets/cf710c4e-1ef4-4a2f-bd27-a96b4ecb3b63)
+![Screenshot 2025-06-13 210725](https://github.com/user-attachments/assets/8af2f6f2-1906-412e-9608-1d370d114230)
