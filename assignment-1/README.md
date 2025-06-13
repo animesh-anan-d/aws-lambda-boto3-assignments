@@ -49,7 +49,6 @@ You are required to write a Lambda function that:
 
 
 
-![Screenshot 2025-06-13 204459](https://github.com/user-attachments/assets/6f0a6bec-438d-4e9e-aeaf-5068e87ad49d)
 
 ### 4. Output
 
@@ -59,9 +58,12 @@ Started Instances: ['i-0abcdef0123456789']
 
 
 ### 5. Screenshots
-![Screenshot 2025-06-13 205118](https://github.com/user-attachments/assets/3d47861f-16f7-4fb0-8b6d-a0df27ae43b7)
 
-![Screenshot 2025-06-13 211805](https://github.com/user-attachments/assets/41fe0728-e16b-4199-b2d8-8a3cf424e0eb)
-![Screenshot 2025-06-13 204904](https![Uploading Screenshot 2025-06-13 211805.png…]()
-://github.com/user-attachments/assets/cf710c4e-1ef4-4a2f-bd27-a96b4ecb3b63)
-![Screenshot 2025-06-13 210725](https://github.com/user-attachments/assets/8af2f6f2-1906-412e-9608-1d370d114230)
+![Screenshot 2025-06-13 204459](https://github.com/user-attachments/assets/1f6d6e50-6470-41c2-9450-52e8![Screenshot 2025-06-13 204904](https://github.com/user-attachments/assets/0548fdf5-3559-4e38-8397-8a623f2a6007)
+e045693e)
+![Screenshot 2025-06-13 205118](https://github.com/user-attachments/assets/a041f433-cc0e-4788-9622-87857dc90c9![Screenshot 2025-06-13 205325](https://github.com/user-attachments/assets/42f80ce8-f0d6-4e70-9652-f16e8e63f9c1)
+0)
+![Screenshot 2025-06-13 210725](https://github.com/user-attachments/assets/56ea5e9b-9c5a-4e76-abc0-e569ce4fa985)
+
+![Screenshot 2025-06-13 211130](https://github.com/user-attachments/assets/2463693f-4d25-4845-bce5-d905f2c7b76a)
+![Screenshot 2025-06-13 211805](https://github.com/user-attachments/assets/b7c50f8a-49b4-4585-a5a6-562968a077af)
