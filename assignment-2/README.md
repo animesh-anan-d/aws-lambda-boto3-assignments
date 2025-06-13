@@ -58,4 +58,10 @@ Automatically clean up old files from an S3 bucket to:
 - Go to **AWS Lambda > Create function**
 - Runtime: **Python 3.x**
 - Assign the IAM role created above
-- Paste the following code:
+- Paste the following code
+
+
+### 4 Screenshots
+
+
+![Screenshot 2025-06-13 222455](https://github.com/user-attachments/assets/65fa33ef-5057-4833-9cee-c79c7c4c7348)
